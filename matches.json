@@ -15,7 +15,84 @@
       "estrelas": 5,
       "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
     }
+  },
+  
+  
+    { 
+    "descricao": "Eliminatórias Copa 2022",
+    "local": {
+      "nome": "Itaquera",
+      "imagem": "TODO"
+    },
+    "mandante": {
+      "nome": "Uruguai",
+      "estrelas": 4,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
+    },
+    "visitante": {
+      "nome": "Chile",
+      "estrelas": 4,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/cl.png"
+    }
+  },
+  
+    { 
+    "descricao": "Eliminatórias Copa 2022",
+    "local": {
+      "nome": "Mineirão",
+      "imagem": "TODO"
+    },
+    "mandante": {
+      "nome": "Equador",
+      "estrelas": 3,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ec.png"
+    },
+    "visitante": {
+      "nome": "Paraguai",
+      "estrelas": 4,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/py.png"
+    }
+  },
+  
+    { 
+    "descricao": "Eliminatórias Copa 2022",
+    "local": {
+      "nome": "Maracanã",
+      "imagem": "TODO"
+    },
+    "mandante": {
+      "nome": "Brasil",
+      "estrelas": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/br.png"
+    },
+    "visitante": {
+      "nome": "Chile",
+      "estrelas": 4,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/cl.png"
+    }
+  },
+  
+    { 
+    "descricao": "Eliminatórias Copa 2022",
+    "local": {
+      "nome": "Itaquera",
+      "imagem": "TODO"
+    },
+    "mandante": {
+      "nome": "Argentina",
+      "estrelas": 5,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/ar.png"
+    },
+    "visitante": {
+      "nome": "Uruguai",
+      "estrelas": 4,
+      "imagem": "https://www.bandeirasnacionais.com/data/flags/normal/uy.png"
+    }
   }
+  
 ]
+
+
+
 
 
